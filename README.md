@@ -226,6 +226,7 @@
 - [Example custom compressor for UserOperations](https://github.com/ethereum/research/blob/master/rollup_compression/4844_compress_complex.py)
   - [Example compression dictionary](https://github.com/ethereum/research/blob/master/rollup_compression/dicts.py)
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust-scoring MCP server for x402 agents. Free on-chain preflight checks agent trust + identity signals; signed USDC receipt (<$0.01, <1s). Enables AA-based agents to verify counterparty trust before transacting. MCP: `https://intel.twzrd.xyz/mcp`
 # Projects
 
 Projects using Account Abstraction (or variations of AA) in alphabetical order.
